@@ -8,6 +8,16 @@ Ever wondered why Tricount and Splitwise never made a CLI version of their respe
 - Have Python (>=3.7) installed on your computer
 - Install the PyInquirer library using pip (`pip install pyinquirer`)
 
+use 
+```
+pip install -r requirements.txt
+ssh-keygen
+```
+## usage
+```
+python3 main.py
+```
+
 ## Useful References
 - PyInquirer github repository : https://github.com/CITGuru/PyInquirer
 - Python Package Manager Documentation : https://pypi.org/project/pip/
